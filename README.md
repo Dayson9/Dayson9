@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dayson
-- 👀 I’m a web developer who aspires to impact the IoT world
-- 📚
+- 👀 I’m a web developer who aspires to impact the IoT world.
 - 🌱 I'm currently a Frontend developer looking towards transitioning into backend development.
 - 💞️ I’m looking to collaborate on any type of website related projects
 - 📚 My current stack is HTML, CSS, JavaScript, QueFlowJS, ReactJS.
